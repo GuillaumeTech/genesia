@@ -1,6 +1,6 @@
 # GenNesia
 
-Guided Generation of a bunch of islands.
+Guided procedural generation of a bunch of islands.
 
 ## Example
 
