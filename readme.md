@@ -6,10 +6,11 @@ Guided Generation of a bunch of islands.
 
 ### Source
 
-![ex1](source.png)
+<img src="source.png" width="700">
 
 ### Samples results
 
-![ex1](examples/ex1.png)
-![ex2](examples/ex2.png)
-![ex3](examples/ex3.png)
+<img src="examples/ex1.png" width="700">
+<img src="examples/ex2.png" width="700">
+<img src="examples/ex3.png" width="700">
+
